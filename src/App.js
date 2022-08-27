@@ -6,7 +6,12 @@ const emojiDictionary = {
   "😲": "Astonished",
   "😞": "Sad",
   "💕": "Hearts",
-  "😉": "Winking"
+  "😉": "Winking",
+  "🤔": "Thinking",
+  "😏": "Smirking",
+  "😌": "Relieved",
+  "😕": "Confused",
+  "🥺": "Pleading"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
